@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alexander-PE
+- 👀 I’m interested in Web & Movile development 
+- 🌱 I’m currently learning Next.js
+- 📫 How to reach me: alexander.pereze02@gmail.com
