@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: alexander.pereze02@gmail.com
-- 🔭 I’m currently working on increase my portfolio and get hired
+- 🔭 I’m currently working on increase my portfolio and skills
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alexander-PE)
 
 
