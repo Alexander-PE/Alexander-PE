@@ -5,7 +5,6 @@
 - 📫 How to reach me: alexander.pereze02@gmail.com
 - 🔭 I’m currently working on increase my portfolio and skills
 - My portfolio: https://portfolio-olive-ten.vercel.app
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alexander-PE.README.issue.1)
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> 
