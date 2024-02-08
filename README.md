@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: alexander.pereze02@gmail.com
 - 🔭 I’m currently working on increase my portfolio and skills
-- My portfolio: https://portfolio-olive-ten.vercel.app
+- My portfolio: https://vlexdev.netlify.app
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> 
